@@ -9,3 +9,11 @@ Analyzing the performance of schools is important for a variety of stakeholders,
 You have been provided with a dataset called `schools.csv`, which is previewed below.
 
 You have been tasked with answering three key questions about New York City (NYC) public school SAT performance.
+
+## Problem
+
+1. Subset the data to find the schools with math scores of at least 80%, considering the maximum possible score is 800 and save this as a pandas DataFrame called best_math_schools.
+
+2. Find the 10 best performing schools based on the total score across the three SAT sections.
+
+3. Find out the number of schools, average SAT, and standard deviation of SAT for the NYC borough with the largest standard deviation, rounded to two decimal places.
